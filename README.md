@@ -82,7 +82,7 @@ iptv_player_tv/
 
 ### Pasos para compilar el APK:
 1. Abrir Android Studio y seleccionar **Open an Existing Project**, eligiendo el directorio:
-   `C:\Users\WinterOS\.gemini\antigravity\scratch\iptv_player_tv`
+   `.gemini\antigravity\scratch\iptv_player_tv`
 2. Compilar mediante la terminal de Android Studio o Gradle:
    ```bash
    ./gradlew assembleDebug
